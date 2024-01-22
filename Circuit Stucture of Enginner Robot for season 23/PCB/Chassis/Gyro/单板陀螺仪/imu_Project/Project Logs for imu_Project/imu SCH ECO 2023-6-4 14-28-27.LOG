@@ -1,0 +1,2 @@
+Remove Pin=LED1-2 From Net=PB1/LED
+Remove Pin=R11-2 From Net=PA2/HEATER

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=R14-1
+Removed Pin From Net: NetName=CAN1_L/USART1_RX Pin=R14-2
+Removed Member From Class: ClassName=imu Member=R14
+Added Room: Name=imu

@@ -1,0 +1,42 @@
+Added Component: Designator=P2(HY2.00MM 4X1 SMT)
+Added Component: Designator=R14(0603R)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0603R)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=S3(MSK-12C01-07)
+Added Component: Designator=U5(SOT-23-8)
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=CAN1_H/USART1_TX Pin=P2-3
+Added Pin To Net: NetName=CAN1_L/USART1_RX Pin=P2-4
+Added Pin To Net: NetName=3V3 Pin=R14-1
+Added Pin To Net: NetName=CAN1_L/USART1_RX Pin=R14-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=CAN1_H/USART1_TX Pin=R15-2
+Added Pin To Net: NetName=CAN1_L/USART1_RX Pin=S3-1
+Added Pin To Net: NetName=NetR15_1 Pin=S3-2
+Added Pin To Net: NetName=PA10/CAN_TX/USART1_RX Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=3V3 Pin=U5-3
+Added Pin To Net: NetName=PA9/CAN_RX/USART1_TX Pin=U5-4
+Added Pin To Net: NetName=CAN1_L/USART1_RX Pin=U5-6
+Added Pin To Net: NetName=CAN1_H/USART1_TX Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Member To Class: ClassName=imu Member=Component P2 CAN_4pin
+Added Member To Class: ClassName=imu Member=Component R14 4.7K
+Added Member To Class: ClassName=imu Member=Component R15 120
+Added Member To Class: ClassName=imu Member=Component S3 SW_DIP1
+Added Member To Class: ClassName=imu Member=Component U5 CAN
+Added Room: Name=imu
